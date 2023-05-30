@@ -1,0 +1,19 @@
+/* selector { property : value; } */
+
+h1 {
+  text-align: center;
+  color: red;
+}
+
+p {
+  color: blue;
+}
+body {
+  background-color: green;
+}
+
+div{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blueviolet;
+    font-weight: 200;
+    }
