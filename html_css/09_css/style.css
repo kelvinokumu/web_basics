@@ -1,13 +1,18 @@
 /* selector { property : value; } */
 
-h1 {
+h1, h3 {
   text-align: center;
   color: red;
+}
+
+h2{
+  color: yellowgreen;
 }
 
 p {
   color: blue;
 }
+
 body {
   background-color: green;
 }
