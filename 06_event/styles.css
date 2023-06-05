@@ -1,0 +1,66 @@
+/* styles.css */
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  /* Navigation styles */
+  nav {
+    background-color: #555;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  /* Section styles */
+  section {
+    padding: 20px;
+  }
+  
+  /* Home section styles */
+  #home {
+    background-color: #f1f1f1;
+  }
+  
+  /* About section styles */
+  #about {
+    background-color: #fff;
+  }
+  
+  /* Speakers section styles */
+  #speakers {
+    background-color: #f1f1f1;
+  }
+  
+  /* Schedule section styles */
+  #schedule {
+    background-color: #fff;
+  }
+  
+  /* Venue section styles */
+  #venue {
+    background-color: #f1f1f1;
+  }
+  
+  /* Registration section styles */
+  #registration {
+    background-color: #fff;
+  }
+  
+  /* Footer styles */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
